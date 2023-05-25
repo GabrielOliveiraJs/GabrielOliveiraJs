@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou trabalhando com front-end;
 - 🌱 Estudando APIs e back-end;
 - 📫 Contate-me no email: gabrieljscode@gmail.com;
-- 😄 Pronouns: ele/dele;
 
 <div align="center">
   <a href="https://github.com/gabrieloliveirajs">
